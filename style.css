@@ -1,0 +1,79 @@
+body{
+    background-color: rgb(26, 25, 25);
+   
+}
+
+
+.myP1{
+
+    color: white;
+    font-family: arial;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+
+
+
+
+.rock1, .paper1, .scissor1{
+
+    background-color: transparent;
+    border: 3px solid white;
+    border-radius: 200px;
+    padding: 30px;
+    margin: 5px;
+    cursor: pointer;
+
+}
+
+.rock, .paper, .scissor{
+    height: 50px;
+}
+
+
+.myP2{
+
+
+color: white;
+font-family: arial;
+font-size: 18px;
+
+}
+
+.myReset{
+
+padding: 7px 10px 7px 10px;
+font-size: 15px;
+cursor: pointer;
+}
+
+.myP3{
+
+    color: white;
+    font-family: arial;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.myP4{
+
+
+    color: white;
+    font-family: arial;
+}
+
+.emoji{
+    height: 40px;
+}
+
+
+.myIMG{
+
+    height: 200px;
+    margin-left: 200px;
+    display: block;
+    margin-top: 100px;
+    width: 1000px;
+   
+}
